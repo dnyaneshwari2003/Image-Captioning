@@ -23,26 +23,9 @@ This is a Python GUI application that automatically generates a descriptive capt
   * `pillow`
   * `tkinter` (included by default in most Python installations)
 
----
 
-## 📦 Installation
 
-1. **Clone or download** this repository to your local machine.
 
-2. **Install dependencies** using pip:
-
-```bash
-pip install transformers torch pillow
-```
-
-3. (Optional but recommended) Create a virtual environment:
-
-```bash
-python -m venv venv
-venv\Scripts\activate  # On Windows
-```
-
----
 
 ## 🚀 How to Run
 
@@ -54,7 +37,7 @@ python ImgCaption.py
 
 The GUI window will open. Click **“Upload Image”**, choose a file, and the AI will generate a caption for it.
 
----
+
 
 ## 🧠 Model Used
 
@@ -62,7 +45,7 @@ The GUI window will open. Click **“Upload Image”**, choose a file, and the A
 * **Framework**: Hugging Face Transformers
 * **Device**: CPU (you can modify it to use CUDA/GPU for faster inference)
 
----
+
 
 ## 🖼️ Example
 
@@ -76,21 +59,7 @@ The GUI window will open. Click **“Upload Image”**, choose a file, and the A
 * Support drag-and-drop image uploads
 * Add multilingual captioning with translation APIs
 
----
 
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 🙋‍♀️ Contributing
-
-Pull requests and suggestions are welcome! Please open an issue to discuss major changes before submitting a PR.
-
----
-
-Let me know if you'd like this formatted as a downloadable `.md` file or need a logo/screenshot section added.
 
 
 

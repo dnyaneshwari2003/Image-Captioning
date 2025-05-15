@@ -52,12 +52,6 @@ The GUI window will open. Click **“Upload Image”**, choose a file, and the A
 ![image](https://github.com/user-attachments/assets/533f4b8d-33f4-42f7-a75f-8d63b354d465)
 
 
-## 💡 Possible Improvements
-
-* Add “Copy Caption” button
-* Show progress bar or spinner while generating captions
-* Support drag-and-drop image uploads
-* Add multilingual captioning with translation APIs
 
 
 

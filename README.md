@@ -1,12 +1,8 @@
-Here's a ready-to-copy **README file** for your **Image Caption Generator using BLIP and Tkinter** project:
-
----
-
 # 🖼️ Image Caption Generator (BLIP + Tkinter)
 
 This is a Python GUI application that automatically generates a descriptive caption for an uploaded image using a deep learning model from Hugging Face (BLIP - Bootstrapped Language-Image Pretraining). The interface is built using Tkinter.
 
----
+
 
 ## 🔍 Features
 
@@ -15,7 +11,7 @@ This is a Python GUI application that automatically generates a descriptive capt
 * Automatically generates a caption using a pre-trained AI model
 * Clean and minimal graphical interface (GUI) using Tkinter
 
----
+
 
 ## 🛠️ Requirements
 

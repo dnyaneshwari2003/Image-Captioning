@@ -27,18 +27,6 @@ This is a Python GUI application that automatically generates a descriptive capt
 
 
 
-## 🚀 How to Run
-
-From your terminal or command prompt, navigate to the project directory and run:
-
-```bash
-python ImgCaption.py
-```
-
-The GUI window will open. Click **“Upload Image”**, choose a file, and the AI will generate a caption for it.
-
-
-
 ## 🧠 Model Used
 
 * **Model**: [Salesforce/blip-image-captioning-base](https://huggingface.co/Salesforce/blip-image-captioning-base)

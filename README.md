@@ -3,7 +3,6 @@
 This is a Python GUI application that automatically generates a descriptive caption for an uploaded image using a deep learning model from Hugging Face (BLIP - Bootstrapped Language-Image Pretraining). The interface is built using Tkinter.
 
 
-
 ## 🔍 Features
 
 * Upload any `.jpg`, `.jpeg`, or `.png` image

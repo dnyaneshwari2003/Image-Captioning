@@ -13,15 +13,7 @@ This is a Python GUI application that automatically generates a descriptive capt
 
 
 
-## 🛠️ Requirements
 
-* Python 3.8 or higher
-* Required libraries:
-
-  * `transformers`
-  * `torch`
-  * `pillow`
-  * `tkinter` (included by default in most Python installations)
 
 
 
